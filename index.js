@@ -1,2 +1,2 @@
 console.log("Bienvenidos al bootcamp");
-console.log("Segunda clase git");
+console.log("Segunda clase git y gihub");
